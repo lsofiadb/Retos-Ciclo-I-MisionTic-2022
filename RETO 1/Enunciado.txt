@@ -1,0 +1,48 @@
+Reto 1: Grupo P9: Reforma tributaria
+_________________________________________________________________
+Productos afectados:
+Leche
+Huevos
+Café
+---------------------------------
+Precio de los huevos y la leche:
+PrecioArroz-4=2PrecioLeche
+PrecioArroz+PrecioLeche=5PrecioCafe
+--------------------------------------------------
+Productos gravados con diferentes impuestos basados en las siguientes categorias:
+·      Categoría uno: para productos que valgan entre 0 y 20 pesos
+
+·      Categoría dos: para productos entre 21 y 30 pesos
+
+·      Categoría tres: para productos entre 31 y 50 pesos
+
+·      Categoría cuatro: para productos que valgan más de 50 pesos
+
+Dado el precio de la leche, realizar un programa que imprima en la primera línea
+los precios del arroz, la leche y el café separados por un solo espacio. 
+En la segunda línea indique con qué categoría fue grabado el café.
+
+Nota: Los precios de los productos son números enteros.
+
+Entrada
+
+La entrada es un número que representa el precio de la leche
+
+Salida
+
+Tres enteros separados por espacio que representan los precios 
+de la leche, el arroz y el café. En la siguiente línea, en letras, 
+la categoría correspondiente al impuesto del café.
+---------------------------------------------------------------------------------------------------------
+SOLUCION
+Precio de los huevos y la leche:
+PrecioArroz-4=2PrecioLeche
+PrecioArroz+PrecioLeche=5PrecioCafe
+Hallando el valor de las 3 variables:
+1. PrecioLeche
+El valor lo da el enunciado del problema
+2. PrecioArroz
+PrecioArroz=2PrecioLeche+4
+3. PrecioCafe=(PrecioArroz+PrecioLeche)/5
+
+

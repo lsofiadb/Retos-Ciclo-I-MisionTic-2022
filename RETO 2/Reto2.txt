@@ -1,0 +1,35 @@
+Pedro y Néstor compiten para adivinar qué jugadores de la selección 
+Colombia tocarán el balón durante el primer minuto del partido. 
+
+Cada participante debe proponer una cadena de texto compuesta con la
+primera letra del nombre de los jugadores que considera van a tocar 
+el balón; por ejemplo, si Pedro cree que en el primer minuto las jugadas
+estarán a cargo de Radamel, James, David y Duvan propondrá la siguiente
+cadena de texto: RJDD. 
+
+Así mismo, si Néstor cree que las jugadas estarán a cargo de:
+James, Juan, Yerry y Luis propondrá las siguiente cadena: JJYL.
+
+
+-----------------------------------
+EJEMPLOS
+PEDRO Y NESTOR
+CONDICIONES
+Si Pedro lleva más puntos se escribía una 'J'
+si Nestor lleva mas puntos se escribirá una 'K'
+si llevan los mismo puntos se escribirá una 'L'.
+ENTRADAS: 
+AHS               PEDRO
+
+SDA               NESTOR 
+
+AJS-SDS-AAS-ASA-SSA-SAD-AJA-JSS
+
+SALIDA: LLL LKK KKK KKK KKK KKK KKK KKK
+KKKKKKKKKKKKKKKKKKKK
+LLLL
+KKKKKKKKKKKKKKKKKKKK
+JJJJJJJJJ
+JJJJJJJJJ
+
+LJJJJ
